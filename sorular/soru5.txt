@@ -1,0 +1,3 @@
+Işık hızı saniyede yaklaşık kaç kilometredir?
+
+Cevap: 300,000 km/s
